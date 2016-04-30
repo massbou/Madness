@@ -811,9 +811,3 @@ httpgetargs parserchemin(httpgetargs args)
 
     return args;
 }
-
-
-void test()
-{
-    printf("Je ne saus pas \n", );
-}
